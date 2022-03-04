@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7009efe35332444035da3409eb4b16e1",
+    "revision": "d3a372319761f8e5b5747808ddc7211d",
     "url": "/react-lyrics-search/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-lyrics-search/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "4072e7275b0ef9050ff1",
+    "revision": "85d7ebb27f1040ea362d",
     "url": "/react-lyrics-search/static/css/main.71b2c3fd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-lyrics-search/static/js/2.de4f481f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4072e7275b0ef9050ff1",
-    "url": "/react-lyrics-search/static/js/main.dfbc01c7.chunk.js"
+    "revision": "85d7ebb27f1040ea362d",
+    "url": "/react-lyrics-search/static/js/main.fe1c451d.chunk.js"
   },
   {
     "revision": "3ce07ec952b1caa81f5d",
